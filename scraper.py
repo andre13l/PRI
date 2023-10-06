@@ -1,28 +1,50 @@
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 
-def fetch_reviews():
-    url = 'https://www.yelp.pt/biz/le-grand-los-angeles-3'
-    response = requests.get(url)
+'''results = []
+for i in range(1, page + 1):
+    results.append(fetch_books(i))
+flatten = lambda l: [item for sublist in l for item in sublist]
+df = pd.DataFrame(flatten(results),columns=['Book Name'])
+df.to_csv('amazon_products.csv', index=False, encoding='utf-8')
 
-    # Check if the request was successful (status code 200)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
+df = pd.read_csv("amazon_products.csv")
+
+df.head(10)'''
+
+r=requests.get(f'https://www.amazon.in/gp/bestsellers/books/?pg=1')
+content=r.content
+soup=BeautifulSoup(content,'html.parser')
+alls = []
+for d in soup.find_all('div', attrs={'id':'gridItemRoot'}):    
+    name = d.find('a', attrs={'class':'a-link-normal'})
+    author = d.find('div', attrs={'class':'_cDEzb_p13n-sc-css-line-clamp-1_1Fn1y'})
+    rating = d.find('span', attrs={'class':'a-icon-alt'})
+    users_rated = d.find('span', attrs={'class':'a-size-small'})
+    price = d.find('span', attrs={'class':'_cDEzb_p13n-sc-price_3mJ9Z'})
         
-        # Check if the reviews container is present
-        reviews = soup.find_all('div', {'class': 'review-content'})
-        if reviews:
-            for review in reviews:
-                # Check if the review text is present
-                review_text = review.find('p')
-                if review_text:
-                    print(review_text.text)
-                else:
-                    print("No review text found in a review.")
-        else:
-            print("No reviews found on the page.")
+    all1=[]
+    if name is not None:
+        all1.append(name.text)
     else:
-        print(f"Failed to retrieve the page. Status code: {response.status_code}")
+        all1.append("unknown-product")
+    if author is not None:
+        all1.append(author.text)
+    else:    
+        all1.append('0')
+    if rating is not None:
+        all1.append(rating.text)
+    else:
+        all1.append('-1')
+    if users_rated is not None:
+        all1.append(users_rated.text)
+    else:
+        all1.append('0')
+    if price is not None:
+        all1.append(price.text)
+    else:
+        all1.append('0')
+    alls.append(all1)
 
-# Call the function
-fetch_reviews()
+print(alls)
