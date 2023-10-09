@@ -1,0 +1,667 @@
+Book Name,Author,Rating,Customers_Rated,Href
+"
+Oliver Twist
+",Charles Dickens,3.8,"377,403",https://www.goodreads.com/book/show/18254.Oliver_Twist
+"
+The Hunchback of Notre-Dame
+",Victor Hugo,4.0,"196,172",https://www.goodreads.com/book/show/30597.The_Hunchback_of_Notre_Dame
+"
+The Fall of the House of Usher
+",Edgar Allan Poe,3.9,"59,081 ",https://www.goodreads.com/book/show/175516.The_Fall_of_the_House_of_Usher
+"
+Frankenstein
+",Mary Wollstonecraft Shelley,3.8,"1,517,6",https://www.goodreads.com/book/show/801675.Frankenstein
+"
+The Red and the Black
+",Stendhal,3.8,"72,470 ",https://www.goodreads.com/book/show/14662.The_Red_and_the_Black
+"
+The Little Mermaid
+",Hans Christian Andersen,3.9,"26,620 ",https://www.goodreads.com/book/show/132391.The_Little_Mermaid
+"
+Eugene Onegin
+",Alexander Pushkin,4.1,"62,315 ",https://www.goodreads.com/book/show/27822.Eugene_Onegin
+"
+The Pickwick Papers
+",Charles Dickens,3.8,"28,998 ",https://www.goodreads.com/book/show/229432.The_Pickwick_Papers
+"
+Père Goriot
+",Honoré de Balzac,3.8,"57,156 ",https://www.goodreads.com/book/show/59145.P_re_Goriot
+"
+Nicholas Nickleby
+",Charles Dickens,3.9,"44,016 ",https://www.goodreads.com/book/show/325085.Nicholas_Nickleby
+"
+The Charterhouse of Parma
+",Stendhal,3.8,"17,637 ",https://www.goodreads.com/book/show/14680.The_Charterhouse_of_Parma
+"
+The Lady of Shalott
+",Alfred Tennyson,4.1,"18,981 ",https://www.goodreads.com/book/show/724371.The_Lady_of_Shalott
+"
+Voyage of the Beagle
+",Charles Darwin,4.0,"7,603 r",https://www.goodreads.com/book/show/183645.Voyage_of_the_Beagle
+"
+The Queen of Spades and Other Stories
+",Alexander Pushkin,4.1,"8,611 r",https://www.goodreads.com/book/show/97381.The_Queen_of_Spades_and_Other_Stories
+"
+Faust
+",Johann Wolfgang von Goethe,3.9,"45,498 ",https://www.goodreads.com/book/show/406373.Faust
+"
+The Captain's Daughter
+",Alexander Pushkin,3.8,"21,666 ",https://www.goodreads.com/book/show/604578.The_Captain_s_Daughter
+"
+The Nose
+",Catherine Cowan,3.9,"13,946 ",https://www.goodreads.com/book/show/19106.The_Nose
+"
+The Complete Fairy Tales
+",Hans Christian Andersen,4.2,"106,606",https://www.goodreads.com/book/show/46306.The_Complete_Fairy_Tales
+"
+Lost Illusions
+",Honoré de Balzac,4.1,"10,772 ",https://www.goodreads.com/book/show/25932.Lost_Illusions
+"
+Twice-Told Tales
+",Nathaniel Hawthorne,3.8,"2,927 r",https://www.goodreads.com/book/show/47061.Twice_Told_Tales
+"
+Eugénie Grandet
+",Honoré de Balzac,3.7,"22,404 ",https://www.goodreads.com/book/show/59142.Eug_nie_Grandet
+"
+Taras Bulba
+",Nikolai Gogol,3.7,"12,247 ",https://www.goodreads.com/book/show/104696.Taras_Bulba
+"
+The Book of Mormon: Another Testament of Jesus Christ
+",Joseph Smith Jr.,4.2,"84,657 ",https://www.goodreads.com/book/show/323355.The_Book_of_Mormon
+"
+The Narrative of Arthur Gordon Pym of Nantucket and Related Tales
+",Edgar Allan Poe,3.6,"2,872 r",https://www.goodreads.com/book/show/70925.The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket_and_Related_Tales
+"
+Tales of the Alhambra
+",Washington Irving,3.7,"4,530 r",https://www.goodreads.com/book/show/403733.Tales_of_the_Alhambra
+"
+The Queen of Spades
+",Alexander Pushkin,3.9,"12,137 ",https://www.goodreads.com/book/show/279614.The_Queen_of_Spades
+"
+Woyzeck
+",Georg Büchner,3.0,"17,133 ",https://www.goodreads.com/book/show/571938.Woyzeck
+"
+The Kalevala
+",Elias Lönnrot,4.0,"5,355 r",https://www.goodreads.com/book/show/400869.The_Kalevala
+"
+The Unknown Masterpiece
+",Honoré de Balzac,3.8,"5,231 r",https://www.goodreads.com/book/show/817790.The_Unknown_Masterpiece
+"
+The Narrative of Arthur Gordon Pym of Nantucket
+",Edgar Allan Poe,3.5,"11,659 ",https://www.goodreads.com/book/show/766869.The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket
+"
+Ligeia
+",Edgar Allan Poe,3.7,"5,555 r",https://www.goodreads.com/book/show/419520.Ligeia
+"
+Selected Poems
+",Lord Byron,4.0,"14,234 ",https://www.goodreads.com/book/show/119239.Selected_Poems
+"
+The Wild Ass's Skin
+",Honoré de Balzac,3.7,"8,963 r",https://www.goodreads.com/book/show/99742.The_Wild_Ass_s_Skin
+"
+Indiana
+",George Sand,3.5,"2,931 r",https://www.goodreads.com/book/show/104260.Indiana
+"
+Faust, Part Two
+",Johann Wolfgang von Goethe,3.6,"6,352 r",https://www.goodreads.com/book/show/14707.Faust_Part_Two
+"
+Lenz
+",Georg Büchner,3.6,"2,707 r",https://www.goodreads.com/book/show/287510.Lenz
+"
+Diary of a Madman and Other Stories
+",Nikolai Gogol,4.0,"11,917 ",https://www.goodreads.com/book/show/28382.Diary_of_a_Madman_and_Other_Stories
+"
+Nature
+",Ralph Waldo Emerson,3.7,"5,353 r",https://www.goodreads.com/book/show/3420140-nature
+"
+The Little Tragedies
+",Alexander Pushkin,4.3,"2,763 r",https://www.goodreads.com/book/show/111732.The_Little_Tragedies
+"
+Dantons Tod
+",Georg Büchner,3.3,"3,197 r",https://www.goodreads.com/book/show/1870638.Dantons_Tod
+"
+The Collected Tales of Nikolai Gogol
+",Nikolai Gogol,4.3,"14,578 ",https://www.goodreads.com/book/show/252981.The_Collected_Tales_of_Nikolai_Gogol
+"
+The Inspector General
+",Nikolai Gogol,3.9,"15,929 ",https://www.goodreads.com/book/show/142262.The_Inspector_General
+"
+The Complete Poetry
+",Edgar Allan Poe,4.2,"15,403 ",https://www.goodreads.com/book/show/73445.The_Complete_Poetry
+"
+The Country Doctor
+",Honoré de Balzac,3.6,624 rat,https://www.goodreads.com/book/show/2366229.The_Country_Doctor
+"
+Сказка о царе Салтане
+",Alexander Pushkin,4.2,"7,994 r",https://www.goodreads.com/book/show/23268842
+"
+Sketches by Boz
+",Charles Dickens,3.7,"1,408 r",https://www.goodreads.com/book/show/18936679-sketches-by-boz
+"
+Pan Tadeusz
+",Adam Mickiewicz,3.0,"16,165 ",https://www.goodreads.com/book/show/881508.Pan_Tadeusz
+"
+Manuscript Found in a Bottle
+",Edgar Allan Poe,3.2,"3,127 r",https://www.goodreads.com/book/show/2183890.Manuscript_Found_in_a_Bottle
+"
+Berenice
+",Edgar Allan Poe,3.7,"5,535 r",https://www.goodreads.com/book/show/1396182.Berenice
+"
+The Unparalleled Adventure of One Hans Pfaall
+",Edgar Allan Poe,3.0,"1,203 r",https://www.goodreads.com/book/show/3336787-the-unparalleled-adventure-of-one-hans-pfaall
+"
+William Wilson
+",Edgar Allan Poe,3.8,"3,927 r",https://www.goodreads.com/book/show/6798492-william-wilson
+"
+The Assignation
+",Edgar Allan Poe,3.0,937 rat,https://www.goodreads.com/book/show/3336817-the-assignation
+"
+The French Revolution: A History
+",Thomas Carlyle,3.8,957 rat,https://www.goodreads.com/book/show/318236.The_French_Revolution
+"
+Münchhausen: Eine Geschichte in Arabesken
+",Karl Immermann,3.7,13 rati,https://www.goodreads.com/book/show/8403507-m-nchhausen
+"
+The Elixir Of Life
+",Honoré de Balzac,3.4,524 rat,https://www.goodreads.com/book/show/3784205-the-elixir-of-life
+"
+Sartor Resartus
+",Thomas Carlyle,3.6,"1,043 r",https://www.goodreads.com/book/show/52998.Sartor_Resartus
+"
+Leonce und Lena
+",Georg Büchner,3.3,"1,044 r",https://www.goodreads.com/book/show/1690781.Leonce_und_Lena
+"
+The City in the Sea
+",Edgar Allan Poe,3.7,328 rat,https://www.goodreads.com/book/show/25713476-the-city-in-the-sea
+"
+The Last Days of Pompeii
+",Edward Bulwer-Lytton,3.5,"2,284 r",https://www.goodreads.com/book/show/888.The_Last_Days_of_Pompeii
+"
+Teutonic Mythology Vol. 1 (Volume 1)
+",Jacob Grimm,4.1,52 rati,https://www.goodreads.com/book/show/1706738.Teutonic_Mythology_Vol_1
+"
+Essay on the Freedom of the Will
+",Arthur Schopenhauer,4.1,748 rat,https://www.goodreads.com/book/show/19511.Essay_on_the_Freedom_of_the_Will
+"
+Life of Black Hawk, or Ma-ka-tai-me-she-kia-kiak: Dictated by Himself
+",Black Hawk,3.5,333 rat,https://www.goodreads.com/book/show/2378955.Life_of_Black_Hawk_or_Ma_ka_tai_me_she_kia_kiak
+"
+Ruy Blas
+",Victor Hugo,3.5,"3,060 r",https://www.goodreads.com/book/show/1246292.Ruy_Blas
+"
+Young Goodman Brown
+",Nathaniel Hawthorne,3.6,"14,221 ",https://www.goodreads.com/book/show/562471.Young_Goodman_Brown
+"
+The Philosophy of History
+",Georg Wilhelm Friedrich Hegel,3.8,"3,479 r",https://www.goodreads.com/book/show/25241.The_Philosophy_of_History
+"
+The Emperor's New Clothes
+",Hans Christian Andersen,3.9,"14,323 ",https://www.goodreads.com/book/show/343002.The_Emperor_s_New_Clothes
+"
+Introductory Lectures on Aesthetics
+",Georg Wilhelm Friedrich Hegel,3.8,"1,202 r",https://www.goodreads.com/book/show/117249.Introductory_Lectures_on_Aesthetics
+"
+Gobseck
+",Honoré de Balzac,3.8,"2,399 r",https://www.goodreads.com/book/show/19735373-gobseck
+"
+Deerbrook
+",Harriet Martineau,3.7,366 rat,https://www.goodreads.com/book/show/1339655.Deerbrook
+"
+Bon-Bon
+",Edgar Allan Poe,3.2,526 rat,https://www.goodreads.com/book/show/6328746-bon-bon
+"
+Goldilocks And The Three Bears
+",Robert Southey,3.9,705 rat,https://www.goodreads.com/book/show/1744764.Goldilocks_And_The_Three_Bears
+"
+Loss of Breath
+",Edgar Allan Poe,3.1,519 rat,https://www.goodreads.com/book/show/6643787-loss-of-breath
+"
+Colonel Chabert
+",Honoré de Balzac,3.6,"5,682 r",https://www.goodreads.com/book/show/850317.Colonel_Chabert
+"
+Crotchet Castle
+",Thomas Love Peacock,3.4,103 rat,https://www.goodreads.com/book/show/2778207-crotchet-castle
+"
+On War
+",Carl von Clausewitz,3.9,"13,249 ",https://www.goodreads.com/book/show/117031.On_War
+"
+The Spirit of the Age
+",John Stuart Mill,3.8,9 ratin,https://www.goodreads.com/book/show/217728.The_Spirit_of_the_Age
+"
+Dichtung und Wahrheit
+",Johann Wolfgang von Goethe,3.7,259 rat,https://www.goodreads.com/book/show/24977940-dichtung-und-wahrheit
+"
+Kordian. Część pierwsza trylogii. Spisek koronacyjny
+",Juliusz Słowacki,2.8,"8,959 r",https://www.goodreads.com/book/show/2429069.Kordian_Cz_pierwsza_trylogii_Spisek_koronacyjny
+"
+The Only True Mother Goose Melodies: An Exact Reproduction of the Text and Illustrations of the Original Edition Published and Copyrighted in Boston in the Year 1833 by Munroe & Francis
+",Edward Everett Hale,3.8,25 rati,https://www.goodreads.com/book/show/12237138-the-only-true-mother-goose-melodies
+"
+Sunday under Three Heads
+",Charles Dickens,3.4,99 rati,https://www.goodreads.com/book/show/6473272-sunday-under-three-heads
+"
+Dziady
+",Adam Mickiewicz,3.3,"9,256 r",https://www.goodreads.com/book/show/1841696.Dziady
+"
+The Poetical Works of Samuel Taylor Coleridge
+",Samuel Taylor Coleridge,4.0,"6,258 r",https://www.goodreads.com/book/show/6393001-the-poetical-works-of-samuel-taylor-coleridge
+"
+Sketches of Young Gentlemen
+",Charles Dickens,3.4,81 rati,https://www.goodreads.com/book/show/7421230-sketches-of-young-gentlemen
+"
+Morella
+",Edgar Allan Poe,3.5,"2,213 r",https://www.goodreads.com/book/show/10835604-morella
+"
+The Sleeper
+",Edgar Allan Poe,3.6,242 rat,https://www.goodreads.com/book/show/18621496-the-sleeper
+"
+Вечера на хуторе близ Диканьки
+",Nikolai Gogol,4.1,"3,894 r",https://www.goodreads.com/book/show/158358._
+"
+Mirgorod: Four Tales by Nikolai Gogol
+",Nikolai Gogol,4.1,583 rat,https://www.goodreads.com/book/show/195684.Mirgorod
+"
+Zibaldone
+",Giacomo Leopardi,4.4,405 rat,https://www.goodreads.com/book/show/18490595-zibaldone
+"
+The Conversation of Eiros and Charmion
+",Edgar Allan Poe,3.0,396 rat,https://www.goodreads.com/book/show/8498304-the-conversation-of-eiros-and-charmion
+"
+Det går an
+",Carl Jonas Love Almqvist,3.2,"1,925 r",https://www.goodreads.com/book/show/3892118-det-g-r-an
+"
+The Coliseum
+",Edgar Allan Poe,3.2,97 rati,https://www.goodreads.com/book/show/25164326-the-coliseum
+"
+The Night Before Christmas
+",Nikolai Gogol,3.8,"3,248 r",https://www.goodreads.com/book/show/20893322-the-night-before-christmas
+"
+The Girl With The Golden Eyes
+",Honoré de Balzac,3.3,"1,839 r",https://www.goodreads.com/book/show/25937.The_Girl_With_The_Golden_Eyes
+"
+Four Beasts in One: The Homo-Cameleopard
+",Edgar Allan Poe,2.5,430 rat,https://www.goodreads.com/book/show/6472005-four-beasts-in-one
+"
+The Vicar Of Tours
+",Honoré de Balzac,3.5,346 rat,https://www.goodreads.com/book/show/2154956.The_Vicar_Of_Tours
+"
+Israfel
+",Edgar Allan Poe,3.3,115 rat,https://www.goodreads.com/book/show/27404707-israfel
+"
+Memoirs of a Madman
+",Gustave Flaubert,3.6,"1,076 r",https://www.goodreads.com/book/show/60698.Memoirs_of_a_Madman
+"
+The Duc de L'Omelette
+",Edgar Allan Poe,2.3,482 rat,https://www.goodreads.com/book/show/8464992-the-duc-de-l-omelette
+"
+Conversations of Lord Byron with the Countess of Blessington
+",Marguerite Power Gardiner,4.2,13 rati,https://www.goodreads.com/book/show/13737974-conversations-of-lord-byron-with-the-countess-of-blessington
+"
+Портрет
+",Nikolai Gogol,4.0,"2,675 r",https://www.goodreads.com/book/show/17885208
+"
+A Tale of Jerusalem - a Short Story by Edgar Allan Poe
+",Edgar Allan Poe,2.2,519 rat,https://www.goodreads.com/book/show/8498308-a-tale-of-jerusalem---a-short-story-by-edgar-allan-poe
+"
+Cesar Birotteau
+",Honoré de Balzac,3.7,999 rat,https://www.goodreads.com/book/show/191487.Cesar_Birotteau
+"
+Gamiani, or Two Nights of Excess (Naughty French Novels, 1)
+",Alfred de Musset,3.1,414 rat,https://www.goodreads.com/book/show/622765.Gamiani_or_Two_Nights_of_Excess
+"
+The Wild Swans
+",Hans Christian Andersen,4.2,"3,522 r",https://www.goodreads.com/book/show/382818.The_Wild_Swans
+"
+The Masque of Anarchy: Written on Occasion of the Massacre at Manchester
+",Professor Percy Bysshe Shelley,4.2,306 rat,https://www.goodreads.com/book/show/1868952.The_Masque_of_Anarchy
+"
+Mademoiselle de Maupin
+",Théophile Gautier,3.9,"1,217 r",https://www.goodreads.com/book/show/253878.Mademoiselle_de_Maupin
+"
+The Journal Of Sir Walter Scott (Canongate Classics S)
+",Walter Scott,eal,0 avg r,https://www.goodreads.com/book/show/162072.The_Journal_Of_Sir_Walter_Scott
+"
+Mr. Midshipman Easy
+",Frederick Marryat,3.7,934 rat,https://www.goodreads.com/book/show/341860.Mr_Midshipman_Easy
+"
+The Adventures of Captain Bonneville, U.S.A, in the Rocky Mountains and the Far West
+",Washington Irving,3.8,119 rat,https://www.goodreads.com/book/show/1258830.The_Adventures_of_Captain_Bonneville_U_S_A_in_the_Rocky_Mountains_and_the_Far_West
+"
+The Pirate and the Three Cutters: Nonsuch Classics
+",Frederick Marryat,3.6,21 rati,https://www.goodreads.com/book/show/2056422.The_Pirate_and_the_Three_Cutters
+"
+The Complete Poems
+",Percy Bysshe Shelley,4.0,"8,338 r",https://www.goodreads.com/book/show/223394.The_Complete_Poems
+"
+Adventures of a Mountain Man: The Narrative of Zenas Leonard
+",Zenas Leonard,3.9,763 rat,https://www.goodreads.com/book/show/36217240-adventures-of-a-mountain-man
+"
+Маруся
+",Григорій Квітка-Основ'яненко,3.8,506 rat,https://www.goodreads.com/book/show/16053422
+"
+The Blackamoor of Peter the Great
+",Alexander Pushkin,3.6,605 rat,https://www.goodreads.com/book/show/9062906-the-blackamoor-of-peter-the-great
+"
+Arabesques
+",Nikolai Gogol,4.2,"2,268 r",https://www.goodreads.com/book/show/3301900-arabesques
+"
+The Lion of Flanders
+",Hendrik Conscience,3.4,885 rat,https://www.goodreads.com/book/show/2038673.The_Lion_of_Flanders
+"
+Hyperion
+",Henry Wadsworth Longfellow,3.8,84 rati,https://www.goodreads.com/book/show/8435694-hyperion
+"
+Canti
+",Giacomo Leopardi,4.4,"2,614 r",https://www.goodreads.com/book/show/7960968-canti
+"
+Gedichte
+",Joseph von Eichendorff,4.1,136 rat,https://www.goodreads.com/book/show/1780959.Gedichte
+"
+Lélia
+",George Sand,3.7,254 rat,https://www.goodreads.com/book/show/794904.L_lia
+"
+Rural Muse
+",John Clare,4.7,8 ratin,https://www.goodreads.com/book/show/11067337-rural-muse
+"
+Медный всадник - The Bronze Horseman
+",Alexander Pushkin,4.0,"1,815 r",https://www.goodreads.com/book/show/1192801._The_Bronze_Horseman
+"
+Balladyna
+",Juliusz Słowacki,3.3,"14,036 ",https://www.goodreads.com/book/show/2151148.Balladyna
+"
+Hernani
+",Victor Hugo,3.4,"2,957 r",https://www.goodreads.com/book/show/417465.Hernani
+"
+Poems, Chiefly Lyrical 1830 (Revolution and Romanticism, 1789-1834)
+",Alfred Tennyson,3.7,24 rati,https://www.goodreads.com/book/show/2791705-poems-chiefly-lyrical-1830
+"
+Moore's Irish Melodies
+",Thomas   Moore,3.8,27 rati,https://www.goodreads.com/book/show/750315.Moore_s_Irish_Melodies
+"
+Istoria celor treisprezece
+",Honoré de Balzac,3.7,567 rat,https://www.goodreads.com/book/show/13536980-istoria-celor-treisprezece
+"
+Шельменко-денщик
+",Григорій Квітка-Основ'яненко,3.8,15 rati,https://www.goodreads.com/book/show/36153708--
+"
+Quintus Servinton : A Tale founded upon Incidents of Real Occurence
+",Henry Savery,2.7,7 ratin,https://www.goodreads.com/book/show/12610102-quintus-servinton
+"
+Birds of America
+",John James Audubon,4.4,358 rat,https://www.goodreads.com/book/show/11218309-birds-of-america
+"
+The Cavalry Maiden: Journals of a Russian Officer in the Napoleonic Wars (Indiana-Michigan Series in Russian and East European Studies)
+",Nadezhda Durova,3.6,224 rat,https://www.goodreads.com/book/show/1031687.The_Cavalry_Maiden
+"
+Конотопська відьма
+",Григорій Квітка-Основ'яненко,3.9,461 rat,https://www.goodreads.com/book/show/31299276
+"
+Zur Geschichte der Religion und Philosophie in Deutschland
+",Heinrich Heine,4.1,142 rat,https://www.goodreads.com/book/show/1679919.Zur_Geschichte_der_Religion_und_Philosophie_in_Deutschland
+"
+The Doctrine and Covenants of the Church of Jesus Christ of Latter-Day Saints
+",The Church of Jesus Christ of Latter-day Saints,4.5,"7,588 r",https://www.goodreads.com/book/show/2139442.The_Doctrine_and_Covenants_of_the_Church_of_Jesus_Christ_of_Latter_Day_Saints
+"
+Marie: A Story of Russian Love
+",Alexander Pushkin,3.7,120 rat,https://www.goodreads.com/book/show/10034420-marie
+"
+Scenes from a Courtesan's Life
+",Honoré de Balzac,4.0,"3,336 r",https://www.goodreads.com/book/show/1457330.Scenes_from_a_Courtesan_s_Life
+"
+President Dwight's Decisions of Questions Discussed by the Senior Class in Yale College, in 1813 and 1814
+",Timothy Dwight,eal,0 avg r,https://www.goodreads.com/book/show/19071145-president-dwight-s-decisions-of-questions-discussed-by-the-senior-class
+"
+Fairy Tales
+",Hans Christian Andersen,4.1,"2,993 r",https://www.goodreads.com/book/show/765536.Fairy_Tales
+"
+The Purse
+",Honoré de Balzac,3.5,346 rat,https://www.goodreads.com/book/show/2311449.The_Purse
+"
+The Squabble
+",Nikolai Gogol,3.9,"1,737 r",https://www.goodreads.com/book/show/635041.The_Squabble
+"
+The Avenger
+",Thomas de Quincey,3.5,169 rat,https://www.goodreads.com/book/show/7600662-the-avenger
+"
+The Carriage
+",Nikolai Gogol,3.1,688 rat,https://www.goodreads.com/book/show/15768563-the-carriage
+"
+Klosterheim; or, The masque
+",Michigan Historical Reprint Series,3.2,80 rati,https://www.goodreads.com/book/show/1268309.Klosterheim_or_The_masque
+"
+Старосветские помещики
+",Nikolai Gogol,3.8,487 rat,https://www.goodreads.com/book/show/16052651
+"
+The Life of Henry Brulard
+",Stendhal,3.8,290 rat,https://www.goodreads.com/book/show/75600.The_Life_of_Henry_Brulard
+"
+Revolt of the Tartars; Or, Flight of the Kalmuck Khan
+",Thomas de Quincey,3.3,84 rati,https://www.goodreads.com/book/show/7756037-revolt-of-the-tartars-or-flight-of-the-kalmuck-khan
+"
+Tales of Belkin and Other Prose Writings
+",Alexander Pushkin,4.2,"5,373 r",https://www.goodreads.com/book/show/97385.Tales_of_Belkin_and_Other_Prose_Writings
+"
+The Masque of the Red Death & Other Tales
+",Edgar Allan Poe,eal,0 avg r,https://www.goodreads.com/book/show/40512740-the-masque-of-the-red-death-other-tales
+"
+The Confessions of Nat Turner: and Related Documents (Bedford Series in History and Culture)
+",Nat Turner,3.6,202 rat,https://www.goodreads.com/book/show/87536.The_Confessions_of_Nat_Turner
+"
+Domestic Manners of the Americans
+",Fanny Trollope,3.7,455 rat,https://www.goodreads.com/book/show/1054984.Domestic_Manners_of_the_Americans
+"
+Recollections of the Lake Poets
+",Thomas de Quincey,0.0,0 ratin,https://www.goodreads.com/book/show/59265987-recollections-of-the-lake-poets
+"
+A Narrative of Events, since the First of August, 1834, by James Williams, an Apprenticed Labourer in Jamaica
+",James       Williams,4.0,26 rati,https://www.goodreads.com/book/show/1223404.A_Narrative_of_Events_since_the_First_of_August_1834_by_James_Williams_an_Apprenticed_Labourer_in_Jamaica
+"
+Вечера на хуторе близ Диканьки. Миргород. Ревизор
+",Nikolai Gogol,4.4,151 rat,https://www.goodreads.com/book/show/3079471
+"
+The Philosophy Of Sleep
+",Robert D. Macnish,0.0,0 ratin,https://www.goodreads.com/book/show/12023034-the-philosophy-of-sleep
+"
+The Atheist's Mass
+",Honoré de Balzac,3.7,"1,301 r",https://www.goodreads.com/book/show/18938862-the-atheist-s-mass
+"
+The Works Of Edgar Allan Poe: Narrative Of A. Gordon Pym. [prose Miscellanies
+",Edgar Allan Poe,ike,ating —,https://www.goodreads.com/book/show/45405847-the-works-of-edgar-allan-poe
+"
+The Constitution of Man: Considered in Relation to External Objects
+",George Combe,2.6,3 ratin,https://www.goodreads.com/book/show/13068181-the-constitution-of-man
+"
+Castle Dangerous
+",Walter Scott,3.5,85 rati,https://www.goodreads.com/book/show/6484.Castle_Dangerous
+"
+How to Write a Blackwood Article (Signora Zenobia #1)
+",Edgar Allan Poe,3.0,346 rat,https://www.goodreads.com/book/show/7119391-how-to-write-a-blackwood-article
+"
+An Introduction to Phrenology, in the Form of Question and Answer, With an Appendix, and Copious Illustrative Notes
+",Robert D. Macnish,0.0,0 ratin,https://www.goodreads.com/book/show/32002519-an-introduction-to-phrenology-in-the-form-of-question-and-answer-with
+"
+The Quest Of The Absolute
+",Honoré de Balzac,3.7,625 rat,https://www.goodreads.com/book/show/12774754-the-quest-of-the-absolute
+"
+Hints on Etiquette and the Usages of Society, Adapted to American Society by the Author
+",Charles William Day,3.4,27 rati,https://www.goodreads.com/book/show/25176927-hints-on-etiquette-and-the-usages-of-society-adapted-to-american-societ
+"
+Вий
+",Nikolai Gogol,3.9,"4,657 r",https://www.goodreads.com/book/show/9524248
+"
+The Book of Aphorisms by a Modern Pythagorean
+",Robert D. Macnish,eal,0 avg r,https://www.goodreads.com/book/show/30166073-the-book-of-aphorisms-by-a-modern-pythagorean
+"
+The Red Inn (La Comédie Humaine #82)
+",Honoré de Balzac,3.4,775 rat,https://www.goodreads.com/book/show/2366498.The_Red_Inn
+"
+The Modern Pythagorean, Vol. 2 of 2: A Series of Tales, Essays, and Sketches
+",Robert D. Macnish,0.0,0 ratin,https://www.goodreads.com/book/show/36783277-the-modern-pythagorean-vol-2-of-2
+"
+The Commission In Lunacy
+",Honoré de Balzac,3.8,130 rat,https://www.goodreads.com/book/show/7829068-the-commission-in-lunacy
+"
+The History of Mary Prince: A West Indian Slave Narrative
+",Mary Prince,3.7,"2,767 r",https://www.goodreads.com/book/show/272058.The_History_of_Mary_Prince
+"
+The Collection Of Antiquities
+",Honoré de Balzac,3.6,143 rat,https://www.goodreads.com/book/show/6282585-the-collection-of-antiquities
+"
+Silence: A Fable
+",Edgar Allan Poe,3.2,"1,182 r",https://www.goodreads.com/book/show/10095545-silence
+"
+Indian Creek Massacre and Captivity of Hall Girls (1915)
+",Charles Martin Scanlan,4.1,20 rati,https://www.goodreads.com/book/show/51503078-indian-creek-massacre-and-captivity-of-hall-girls
+"
+The Old Maid / The Cabinet Of Antiquities
+",Honoré de Balzac,3.4,84 rati,https://www.goodreads.com/book/show/10848038-the-old-maid-the-cabinet-of-antiquities
+"
+The Personal Narrative of James O. Pattie of Kentucky
+",James Ohio Pattie,4.1,418 rat,https://www.goodreads.com/book/show/41207850-the-personal-narrative-of-james-o-pattie-of-kentucky
+"
+Narrative of the Capture and Subsequent Sufferings of Mrs. Rachel Plummer During a Captivity of Twenty-one Months Among the Comanche Indians (1839)
+",Rachel Plummer,3.5,40 rati,https://www.goodreads.com/book/show/45844946-narrative-of-the-capture-and-subsequent-sufferings-of-mrs-rachel-plumme
+"
+History of the Reign of Ferdinand and Isabella, the Catholic - Volume I
+",William Hickling Prescott,3.8,28 rati,https://www.goodreads.com/book/show/5024555-history-of-the-reign-of-ferdinand-and-isabella-the-catholic---volume-i
+"
+Narrative of the Riots at Alton (1838)
+",Edward Beecher,t w, avg ra,https://www.goodreads.com/book/show/54632146-narrative-of-the-riots-at-alton
+"
+Village Evenings Near Dikanka and Mirgorod
+",Nikolai Gogol,4.2,"9,915 r",https://www.goodreads.com/book/show/195680.Village_Evenings_Near_Dikanka_and_Mirgorod
+"
+The Valley Of Unrest
+",Edgar Allan Poe,3.5,143 rat,https://www.goodreads.com/book/show/24646805-the-valley-of-unrest
+"
+Η Βαβυλωνία
+",D.K. Vyzantios,3.8,35 rati,https://www.goodreads.com/book/show/12721991
+"
+The Bravo: A Tale
+",James Fenimore Cooper,3.7,65 rati,https://www.goodreads.com/book/show/7225364-the-bravo
+"
+Dr. Heidegger's Experiment
+",Nathaniel Hawthorne,3.6,"1,052 r",https://www.goodreads.com/book/show/8112647-dr-heidegger-s-experiment
+"
+The Haunted Palace
+",Edgar Allan Poe,3.5,278 rat,https://www.goodreads.com/book/show/9838168-the-haunted-palace
+"
+Jocelyn
+",Alphonse de Lamartine,3.1,69 rati,https://www.goodreads.com/book/show/39697446-jocelyn
+"
+Zemsta
+",Aleksander Fredro,3.1,"12,267 ",https://www.goodreads.com/book/show/1841669.Zemsta
+"
+The Young Man's Guide
+",William A. Alcott,3.5,641 rat,https://www.goodreads.com/book/show/3311228-the-young-man-s-guide
+"
+Paradoxe sur le comédien
+",Denis Diderot,3.5,401 rat,https://www.goodreads.com/book/show/1423538.Paradoxe_sur_le_com_dien
+"
+Ο Βασιλικός
+",Αντώνιος Μάτεσις,3.4,11 rati,https://www.goodreads.com/book/show/35023315
+"
+Bridal Ballad
+",Edgar Allan Poe,3.5,108 rat,https://www.goodreads.com/book/show/21310547-bridal-ballad
+"
+Metzengerstein
+",Edgar Allan Poe,3.2,"1,986 r",https://www.goodreads.com/book/show/1467621.Metzengerstein
+"
+The Man that was Used Up - an Edgar Allan Poe Short Story
+",Edgar Allan Poe,3.1,466 rat,https://www.goodreads.com/book/show/2183900.The_Man_that_was_Used_Up_an_Edgar_Allan_Poe_Short_Story
+"
+The Devil in the Belfry
+",Edgar Allan Poe,3.1,813 rat,https://www.goodreads.com/book/show/4139247-the-devil-in-the-belfry
+"
+Louis Lambert
+",Honoré de Balzac,3.4,381 rat,https://www.goodreads.com/book/show/25938.Louis_Lambert
+"
+Shadow: A Parable
+",Edgar Allan Poe,3.2,844 rat,https://www.goodreads.com/book/show/3336858-shadow
+"
+Le Lys dans la vallée
+",Honoré de Balzac,3.7,"6,270 r",https://www.goodreads.com/book/show/1988040.Le_Lys_dans_la_vall_e
+"
+King Pest
+",Edgar Allan Poe,3.1,755 rat,https://www.goodreads.com/book/show/6328751-king-pest
+"
+Travel Pictures
+",Peter Wortsman,3.7,53 rati,https://www.goodreads.com/book/show/2307882.Travel_Pictures
+"
+Mystification
+",Edgar Allan Poe,2.6,249 rat,https://www.goodreads.com/book/show/3336838-mystification
+"
+Lionizing
+",Edgar Allan Poe,2.6,350 rat,https://www.goodreads.com/book/show/6328753-lionizing
+"
+Sarrasine
+",Honoré de Balzac,3.6,"2,366 r",https://www.goodreads.com/book/show/1154047.Sarrasine
+"
+Tales of Belkin (The Art of the Novella)
+",Alexander Pushkin,4.1,"5,357 r",https://www.goodreads.com/book/show/6697972-tales-of-belkin
+"
+La confession d'un enfant du siècle
+",Alfred de Musset,3.7,"1,783 r",https://www.goodreads.com/book/show/1481738.La_confession_d_un_enfant_du_si_cle
+"
+Memoirs of Casanova — Volume 30: Old Age and Death
+",Giacomo Casanova,4.3,12 rati,https://www.goodreads.com/book/show/6654188-memoirs-of-casanova-volume-30
+"
+Servitude and Grandeur of Arms
+",Alfred de Vigny,3.7,79 rati,https://www.goodreads.com/book/show/561429.Servitude_and_Grandeur_of_Arms
+"
+The Phantom Ship
+",Frederick Marryat,3.4,447 rat,https://www.goodreads.com/book/show/1294145.The_Phantom_Ship
+"
+Stello
+",Alfred de Vigny,3.8,51 rati,https://www.goodreads.com/book/show/2067862.Stello
+"
+La Morte Amoureuse
+",Théophile Gautier,3.7,"1,743 r",https://www.goodreads.com/book/show/854456.La_Morte_Amoureuse
+"
+The Queen's Tiara
+",Carl Jonas Love Almqvist,3.4,492 rat,https://www.goodreads.com/book/show/784593.The_Queen_s_Tiara
+"
+Бородино
+",Mikhail Lermontov,4.1,"1,448 r",https://www.goodreads.com/book/show/2937227
+"
+La Comédie de la Mort
+",Thophile Gautier,eal,0 avg r,https://www.goodreads.com/book/show/7744170-la-com-die-de-la-mort
+"
+Essays And Poems
+",Jones Very,eal,0 avg r,https://www.goodreads.com/book/show/9873052-essays-and-poems
+"
+El Pelayo [fragmentos]
+",José de Espronceda,eal,0 avg r,https://www.goodreads.com/book/show/33228222-el-pelayo-fragmentos
+"
+Canción del pirata
+",José de Espronceda,4.2,161 rat,https://www.goodreads.com/book/show/19088011-canci-n-del-pirata
+"
+I Loved You
+",Alexander Pushkin,4.1,26 rati,https://www.goodreads.com/book/show/21210733-i-loved-you
+"
+Death of the Poet
+",Mikhail Lermontov,4.2,13 rati,https://www.goodreads.com/book/show/33013021-death-of-the-poet
+"
+Маскарад
+",Mikhail Lermontov,4.1,"1,346 r",https://www.goodreads.com/book/show/1243773._
+"
+Lorenzaccio
+",Alfred de Musset,3.6,"3,937 r",https://www.goodreads.com/book/show/394487.Lorenzaccio
+"
+On ne badine pas avec l'amour
+",Alfred de Musset,3.6,"4,431 r",https://www.goodreads.com/book/show/570255.On_ne_badine_pas_avec_l_amour
+"
+Les Caprices de Marianne
+",Alfred de Musset,3.4,"1,101 r",https://www.goodreads.com/book/show/6527343-les-caprices-de-marianne
+"
+Chatterton
+",Alfred de Vigny,3.2,219 rat,https://www.goodreads.com/book/show/1692012.Chatterton
+"
+Don Álvaro o la fuerza del sino
+",Duque de Rivas,3.4,"2,418 r",https://www.goodreads.com/book/show/2153333.Don_lvaro_o_la_fuerza_del_sino
+"
+Nie-Boska komedia
+",Zygmunt Krasiński,2.5,"6,187 r",https://www.goodreads.com/book/show/1841692.Nie_Boska_komedia
+"
+The Red Notebook
+",Benjamin Constant,3.3,59 rati,https://www.goodreads.com/book/show/13199447-the-red-notebook
